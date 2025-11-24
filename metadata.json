@@ -1,0 +1,7 @@
+{
+  "name": "J.A.R.V.I.S. Holographic Interface",
+  "description": "An immersive Iron Man inspired HUD with real-time hand tracking, 3D holographic earth, and gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
